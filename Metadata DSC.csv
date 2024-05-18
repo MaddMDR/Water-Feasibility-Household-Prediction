@@ -1,0 +1,40 @@
+Variabel,Keterangan
+DC024,province
+DC025,type of place of residence
+DC201,water feasibility category
+DC205,type of toilet facility
+DC206,has electricity
+DC207,has radio
+DC208,has television
+DC209,has refrigerator
+DC210,has bicycle
+DC211,has motorcycle/scooter
+DC212,has car/truck
+DC213,main floor material
+DC214,main wall material
+DC215,main roof material
+DC216,number of rooms used for sleeping
+DC217,relationship structure
+DC219,sex of head of household
+DC220,age of head of household
+DC226,type of cooking fuel
+DC230a,place where household members wash their hands
+DC230b,presence of water at hand washing place
+DC232,items present: soap or detergent
+DC232b,"items present: ash, mud, sand"
+DC235,location of source for water
+DC237,anything done to water to make safe to drink
+DC237a,water usually treated by: boil
+DC237b,water usually treated by: add bleach/chlorine
+DC237c,water usually treated by: strain through a cloth
+DC237d,water usually treated by: use water filter
+DC237e,water usually treated by: solar disinfection
+DC237f,water usually treated by: let it stand and settle
+DC241,food cooked in the house/ separate building/ outdoors
+DC242,household has separate room used as kitchen
+DC244,owns land usable for agriculture
+DC246,"owns livestock, herds or farm animals"
+DC252,frequency household members smoke inside the house
+DC270a,wealth index for urban/rural
+DC109,type of toilet facility 2
+DC142a,what is the floor area of this house (in square meters)?
